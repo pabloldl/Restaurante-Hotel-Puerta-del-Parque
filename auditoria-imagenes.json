@@ -1,0 +1,598 @@
+{
+  "date": "2026-10-20",
+  "revision": "Presentación y diario visual",
+  "scope": "Secciones intro y journal; comparación contra las cinco fotos del proyecto anterior accesible Cafe-Pub Andalucia. Chrome emulado, no dispositivos físicos.",
+  "viewports": [
+    {
+      "width": 375,
+      "scrollWidth": 375,
+      "images": [
+        {
+          "src": "img/grazalema-pueblo-y-montanas.webp",
+          "width": 1800,
+          "height": 2400,
+          "ok": true,
+          "fit": "cover",
+          "position": "55% 55%",
+          "declaredWidth": 287,
+          "declaredHeight": 350
+        },
+        {
+          "src": "img/mesa-jamon-embutidos-pimientos.webp",
+          "width": 1800,
+          "height": 2400,
+          "ok": true,
+          "fit": "cover",
+          "position": "50% 50%",
+          "declaredWidth": 155,
+          "declaredHeight": 280
+        },
+        {
+          "src": "img/grazalema-paisaje-rural.webp",
+          "width": 1800,
+          "height": 1350,
+          "ok": true,
+          "fit": "cover",
+          "position": "55% 50%",
+          "declaredWidth": 155,
+          "declaredHeight": 220
+        }
+      ],
+      "reveals": true,
+      "botanicalRemoved": true
+    },
+    {
+      "width": 768,
+      "scrollWidth": 753,
+      "images": [
+        {
+          "src": "img/grazalema-pueblo-y-montanas.webp",
+          "width": 1800,
+          "height": 2400,
+          "ok": true,
+          "fit": "cover",
+          "position": "55% 55%",
+          "declaredWidth": 310,
+          "declaredHeight": 410
+        },
+        {
+          "src": "img/mesa-jamon-embutidos-pimientos.webp",
+          "width": 1800,
+          "height": 2400,
+          "ok": true,
+          "fit": "cover",
+          "position": "50% 50%",
+          "declaredWidth": 319,
+          "declaredHeight": 370
+        },
+        {
+          "src": "img/grazalema-paisaje-rural.webp",
+          "width": 1800,
+          "height": 1350,
+          "ok": true,
+          "fit": "cover",
+          "position": "55% 50%",
+          "declaredWidth": 319,
+          "declaredHeight": 280
+        }
+      ],
+      "reveals": true,
+      "botanicalRemoved": true
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1425,
+      "images": [
+        {
+          "src": "img/grazalema-pueblo-y-montanas.webp",
+          "width": 1800,
+          "height": 2400,
+          "ok": true,
+          "fit": "cover",
+          "position": "55% 55%",
+          "declaredWidth": 554,
+          "declaredHeight": 500
+        },
+        {
+          "src": "img/mesa-jamon-embutidos-pimientos.webp",
+          "width": 1800,
+          "height": 2400,
+          "ok": true,
+          "fit": "cover",
+          "position": "50% 50%",
+          "declaredWidth": 441,
+          "declaredHeight": 400
+        },
+        {
+          "src": "img/grazalema-paisaje-rural.webp",
+          "width": 1800,
+          "height": 1350,
+          "ok": true,
+          "fit": "cover",
+          "position": "55% 50%",
+          "declaredWidth": 341,
+          "declaredHeight": 280
+        }
+      ],
+      "reveals": true,
+      "botanicalRemoved": true
+    }
+  ],
+  "reducedMotion": true,
+  "botanicalRemoved": true,
+  "otherSectionsUnchanged": true,
+  "javaScriptUnchanged": true,
+  "uniqueImages": 8,
+  "previousFiles": 5,
+  "comparisons": 40,
+  "fileOrDecodedMatches": 0,
+  "method": "SHA-256 de archivo y de imagen decodificada a 32x32. Inspección de capturas y candidatos; no búsqueda global.",
+  "hashes": [
+    {
+      "path": "restaurante-puerta-del-parque/img/cocina-croquetas-vajilla-artesanal.webp",
+      "sha256": "57db3538a2d4cee20e53abf5b7c155330ecb27dbfceae81bc4514a58b01feb6e",
+      "decoded32": "c3f55bd1923f3d6acc2f192217800d10542bdc28f2ddb3e234d01ca25156f2d6"
+    },
+    {
+      "path": "restaurante-puerta-del-parque/img/cocina-tabla-quesos-artesanos.webp",
+      "sha256": "3398fce8dccc731824a9980a7ab375531f6afb8d5058b1f014dcb3f4b7bda5a4",
+      "decoded32": "a0e18a928c0ce577b370ce35bfb2640d2f4744954a3e49febf40d67909ce9568"
+    },
+    {
+      "path": "restaurante-puerta-del-parque/img/cocina-tapas-mesa-rustica.webp",
+      "sha256": "9fcb4984b8b8ca4447b0693f2ea6ecaaa0a932a4ff5ff31be79e1306f7510225",
+      "decoded32": "7a7ce5159e6f9d5b8bf9ed051f21e7963c76de99b254a899faf1b3c4c6d7a9be"
+    },
+    {
+      "path": "restaurante-puerta-del-parque/img/croquetas-cocido.webp",
+      "sha256": "65eead25b29193ee170ea02adef8bb7dd7f28250c0bcbc13f283aab5ad2c99df",
+      "decoded32": "287aee8dab68d192a2b5468797e462447868f7f9cbc3e75aeb594ddb5e7982f8"
+    },
+    {
+      "path": "restaurante-puerta-del-parque/img/grazalema-paisaje-rural.webp",
+      "sha256": "0c74ab13d656957db510fb0bce5c7bd7876fd886884b0b2a2d65dd223ecd3493",
+      "decoded32": "14ae40c82496f53ad30d41a47a3b5d2080ff37a10c235d8ab5576ee989cf3819"
+    },
+    {
+      "path": "restaurante-puerta-del-parque/img/grazalema-pueblo-y-montanas.webp",
+      "sha256": "3e126462a5ae3c3539d273d01387538cfd77c1624974ec480ccf9cd8667179c8",
+      "decoded32": "27192a281c4966eabec6d951e8d48eaf2b4ada48624af7688e60c193b445a3f5"
+    },
+    {
+      "path": "restaurante-puerta-del-parque/img/mesa-jamon-embutidos-pimientos.webp",
+      "sha256": "802f99d86176f8c74d2c7f21a71d25be83256cb77a9f69c96f0e30f645a1f64a",
+      "decoded32": "83bb88c7a78c13e6e76b2ac1564e5475cd1c3910efb3c770a7a69995a67634b2"
+    },
+    {
+      "path": "restaurante-puerta-del-parque/img/sierra-grazalema-terrazgos.webp",
+      "sha256": "c594bd54178f8670073e808478466e6336a814c8a9420af4ed4be34ac8fde5ec",
+      "decoded32": "2bc1d397a42e4a1d96c15291ba4567868792f37e5c4d88545af94a7922b9c760"
+    },
+    {
+      "path": ".section-review/previous/cafe.jpg",
+      "sha256": "b2432e226e1c24683450376a2800523ca71f5a04dd596d31b2c038fca2885762",
+      "decoded32": "2cf67cdcea58aeaff42ac377670882061d072bc06bfbedeef6ecbdbd3b8cf620"
+    },
+    {
+      "path": ".section-review/previous/cerveza.jpg",
+      "sha256": "bba54fe66ec653f04e7a42c4927875deefbea03a43b169c82bf11dd479989e96",
+      "decoded32": "05b016294c66df361c25f8b304727a5b5bc31c65e8ca98546c906f58eb1d56d7"
+    },
+    {
+      "path": ".section-review/previous/compartir.jpg",
+      "sha256": "f916ae1c4f92a0ac6ec8eef073b354115b4ba3ddb7b4d553e9a68511a29a571e",
+      "decoded32": "99a8a9ad36a354a70abab2e626fae7c12b934788f9b4fdb320f69af33ce93eb7"
+    },
+    {
+      "path": ".section-review/previous/hero.jpg",
+      "sha256": "c0e7e05984f32aefae59e911cd435b1b3a1a510d156be6d1bb347cef9cc5d4d2",
+      "decoded32": "e56dab9f13b6f0a71e3e9f3748f5609f2d9aa5a24fef2b60107ea1207759ee11"
+    },
+    {
+      "path": ".section-review/previous/interior.jpg",
+      "sha256": "2b0b1cbd7513a5db41f31ba88b7bfa746940071888bb6b5af74a340ead39e04e",
+      "decoded32": "7cafd6cee53bd3973993d76f342e7dfd85d33d5c4c98f69d2e8ced8c9e2fcc5e"
+    }
+  ],
+  "previousAudit": {
+    "date": "2026-10-20",
+    "revision": "Selección editorial de las tres imágenes de Nuestra cocina",
+    "scope": "8 imágenes actuales y 5 del proyecto anterior accesible Cafe-Pub Andalucia. Verificación en Chrome; no dispositivos físicos.",
+    "viewports": [
+      {
+        "width": 375,
+        "scrollWidth": 375,
+        "images": [
+          {
+            "src": "img/cocina-croquetas-vajilla-artesanal.webp",
+            "width": 1600,
+            "height": 2400,
+            "ok": true,
+            "fit": "cover",
+            "position": "50% 70%"
+          },
+          {
+            "src": "img/cocina-tapas-mesa-rustica.webp",
+            "width": 1600,
+            "height": 1067,
+            "ok": true,
+            "fit": "cover",
+            "position": "50% 50%"
+          },
+          {
+            "src": "img/cocina-tabla-quesos-artesanos.webp",
+            "width": 1600,
+            "height": 1067,
+            "ok": true,
+            "fit": "cover",
+            "position": "85% 50%"
+          }
+        ],
+        "reveals": true
+      },
+      {
+        "width": 768,
+        "scrollWidth": 753,
+        "images": [
+          {
+            "src": "img/cocina-croquetas-vajilla-artesanal.webp",
+            "width": 1600,
+            "height": 2400,
+            "ok": true,
+            "fit": "cover",
+            "position": "50% 70%"
+          },
+          {
+            "src": "img/cocina-tapas-mesa-rustica.webp",
+            "width": 1600,
+            "height": 1067,
+            "ok": true,
+            "fit": "cover",
+            "position": "50% 50%"
+          },
+          {
+            "src": "img/cocina-tabla-quesos-artesanos.webp",
+            "width": 1600,
+            "height": 1067,
+            "ok": true,
+            "fit": "cover",
+            "position": "85% 50%"
+          }
+        ],
+        "reveals": true
+      },
+      {
+        "width": 1440,
+        "scrollWidth": 1425,
+        "images": [
+          {
+            "src": "img/cocina-croquetas-vajilla-artesanal.webp",
+            "width": 1600,
+            "height": 2400,
+            "ok": true,
+            "fit": "cover",
+            "position": "50% 70%"
+          },
+          {
+            "src": "img/cocina-tapas-mesa-rustica.webp",
+            "width": 1600,
+            "height": 1067,
+            "ok": true,
+            "fit": "cover",
+            "position": "50% 50%"
+          },
+          {
+            "src": "img/cocina-tabla-quesos-artesanos.webp",
+            "width": 1600,
+            "height": 1067,
+            "ok": true,
+            "fit": "cover",
+            "position": "85% 50%"
+          }
+        ],
+        "reveals": true
+      }
+    ],
+    "uniqueImages": 8,
+    "previousFiles": 5,
+    "comparisons": 40,
+    "fileOrDecodedMatches": 0,
+    "unchangedTextStructureAndJavaScript": true,
+    "originalStylesPreserved": true,
+    "method": "SHA-256 de archivos y de imágenes decodificadas a 32x32; inspección visual de originales y encuadres. No es una búsqueda global de duplicados.",
+    "hashes": [
+      {
+        "path": "restaurante-puerta-del-parque/img/cocina-croquetas-vajilla-artesanal.webp",
+        "sha256": "57db3538a2d4cee20e53abf5b7c155330ecb27dbfceae81bc4514a58b01feb6e",
+        "decoded32": "c3f55bd1923f3d6acc2f192217800d10542bdc28f2ddb3e234d01ca25156f2d6"
+      },
+      {
+        "path": "restaurante-puerta-del-parque/img/cocina-tabla-quesos-artesanos.webp",
+        "sha256": "3398fce8dccc731824a9980a7ab375531f6afb8d5058b1f014dcb3f4b7bda5a4",
+        "decoded32": "a0e18a928c0ce577b370ce35bfb2640d2f4744954a3e49febf40d67909ce9568"
+      },
+      {
+        "path": "restaurante-puerta-del-parque/img/cocina-tapas-mesa-rustica.webp",
+        "sha256": "9fcb4984b8b8ca4447b0693f2ea6ecaaa0a932a4ff5ff31be79e1306f7510225",
+        "decoded32": "7a7ce5159e6f9d5b8bf9ed051f21e7963c76de99b254a899faf1b3c4c6d7a9be"
+      },
+      {
+        "path": "restaurante-puerta-del-parque/img/croquetas-cocido.webp",
+        "sha256": "65eead25b29193ee170ea02adef8bb7dd7f28250c0bcbc13f283aab5ad2c99df",
+        "decoded32": "287aee8dab68d192a2b5468797e462447868f7f9cbc3e75aeb594ddb5e7982f8"
+      },
+      {
+        "path": "restaurante-puerta-del-parque/img/el-bosque-arquitectura-blanca.webp",
+        "sha256": "e07879075cc6653a3440521922138823121618e72ef7b787331e1446e2f54b7a",
+        "decoded32": "c7145ee719a5d8d601b7fe3697b5f8dbc2ae2945fd4a295cdec9e317e89caeeb"
+      },
+      {
+        "path": "restaurante-puerta-del-parque/img/pendiente-ambiente-restaurante.svg",
+        "sha256": "104f41568442452eed5d0a651b6af2d3893704714655c58ea61a353df45de022",
+        "decoded32": "2c7f5d9329a44d84b5bf86fcfc53a136f28b87bfc943ea20f008066304c2e4a8"
+      },
+      {
+        "path": "restaurante-puerta-del-parque/img/pendiente-mesa-restaurante.svg",
+        "sha256": "37eb8ae79836e13b41e0f162ef8870a34f769506df16f6680a7283aca3b67276",
+        "decoded32": "4e6409a945709a9e5e75bd2f6217cab5899a72ec9023a313b516be1b175060d6"
+      },
+      {
+        "path": "restaurante-puerta-del-parque/img/sierra-grazalema-terrazgos.webp",
+        "sha256": "c594bd54178f8670073e808478466e6336a814c8a9420af4ed4be34ac8fde5ec",
+        "decoded32": "2bc1d397a42e4a1d96c15291ba4567868792f37e5c4d88545af94a7922b9c760"
+      },
+      {
+        "path": ".photo-review/previous/cafe.jpg",
+        "sha256": "b2432e226e1c24683450376a2800523ca71f5a04dd596d31b2c038fca2885762",
+        "decoded32": "2cf67cdcea58aeaff42ac377670882061d072bc06bfbedeef6ecbdbd3b8cf620"
+      },
+      {
+        "path": ".photo-review/previous/cerveza.jpg",
+        "sha256": "bba54fe66ec653f04e7a42c4927875deefbea03a43b169c82bf11dd479989e96",
+        "decoded32": "05b016294c66df361c25f8b304727a5b5bc31c65e8ca98546c906f58eb1d56d7"
+      },
+      {
+        "path": ".photo-review/previous/compartir.jpg",
+        "sha256": "f916ae1c4f92a0ac6ec8eef073b354115b4ba3ddb7b4d553e9a68511a29a571e",
+        "decoded32": "99a8a9ad36a354a70abab2e626fae7c12b934788f9b4fdb320f69af33ce93eb7"
+      },
+      {
+        "path": ".photo-review/previous/hero.jpg",
+        "sha256": "c0e7e05984f32aefae59e911cd435b1b3a1a510d156be6d1bb347cef9cc5d4d2",
+        "decoded32": "e56dab9f13b6f0a71e3e9f3748f5609f2d9aa5a24fef2b60107ea1207759ee11"
+      },
+      {
+        "path": ".photo-review/previous/interior.jpg",
+        "sha256": "2b0b1cbd7513a5db41f31ba88b7bfa746940071888bb6b5af74a340ead39e04e",
+        "decoded32": "7cafd6cee53bd3973993d76f342e7dfd85d33d5c4c98f69d2e8ced8c9e2fcc5e"
+      }
+    ],
+    "previousAudit": {
+      "date": "2026-10-20",
+      "scope": "Landing actual y cinco fotografías del proyecto contiguo Cafe-Pub Andalucia/cafe-pub-andalucia/img. No se han auditado otros proyectos.",
+      "viewports": [
+        {
+          "width": 375,
+          "scrollWidth": 375,
+          "images": [
+            {
+              "src": "img/croquetas-cocido.webp",
+              "ok": true,
+              "fit": "cover"
+            },
+            {
+              "src": "img/el-bosque-arquitectura-blanca.webp",
+              "ok": true,
+              "fit": "cover"
+            },
+            {
+              "src": "img/garbanzos-espinacas-cadiz.webp",
+              "ok": true,
+              "fit": "cover"
+            },
+            {
+              "src": "img/gazpacho-andaluz.webp",
+              "ok": true,
+              "fit": "cover"
+            },
+            {
+              "src": "img/queso-cabra-grazalema.webp",
+              "ok": true,
+              "fit": "cover"
+            },
+            {
+              "src": "img/sierra-grazalema-terrazgos.webp",
+              "ok": true,
+              "fit": "cover"
+            },
+            {
+              "src": "img/pendiente-mesa-restaurante.svg",
+              "ok": true,
+              "fit": "cover"
+            },
+            {
+              "src": "img/pendiente-ambiente-restaurante.svg",
+              "ok": true,
+              "fit": "cover"
+            }
+          ],
+          "menuOpened": true,
+          "menuEscape": true,
+          "menuLinkCloses": true,
+          "reveals": true
+        },
+        {
+          "width": 768,
+          "scrollWidth": 753,
+          "images": [
+            {
+              "src": "img/croquetas-cocido.webp",
+              "ok": true,
+              "fit": "cover"
+            },
+            {
+              "src": "img/el-bosque-arquitectura-blanca.webp",
+              "ok": true,
+              "fit": "cover"
+            },
+            {
+              "src": "img/garbanzos-espinacas-cadiz.webp",
+              "ok": true,
+              "fit": "cover"
+            },
+            {
+              "src": "img/gazpacho-andaluz.webp",
+              "ok": true,
+              "fit": "cover"
+            },
+            {
+              "src": "img/queso-cabra-grazalema.webp",
+              "ok": true,
+              "fit": "cover"
+            },
+            {
+              "src": "img/sierra-grazalema-terrazgos.webp",
+              "ok": true,
+              "fit": "cover"
+            },
+            {
+              "src": "img/pendiente-mesa-restaurante.svg",
+              "ok": true,
+              "fit": "cover"
+            },
+            {
+              "src": "img/pendiente-ambiente-restaurante.svg",
+              "ok": true,
+              "fit": "cover"
+            }
+          ],
+          "menuOpened": true,
+          "menuEscape": true,
+          "menuLinkCloses": true,
+          "reveals": true
+        },
+        {
+          "width": 1440,
+          "scrollWidth": 1425,
+          "images": [
+            {
+              "src": "img/croquetas-cocido.webp",
+              "ok": true,
+              "fit": "cover"
+            },
+            {
+              "src": "img/el-bosque-arquitectura-blanca.webp",
+              "ok": true,
+              "fit": "cover"
+            },
+            {
+              "src": "img/garbanzos-espinacas-cadiz.webp",
+              "ok": true,
+              "fit": "cover"
+            },
+            {
+              "src": "img/gazpacho-andaluz.webp",
+              "ok": true,
+              "fit": "cover"
+            },
+            {
+              "src": "img/queso-cabra-grazalema.webp",
+              "ok": true,
+              "fit": "cover"
+            },
+            {
+              "src": "img/sierra-grazalema-terrazgos.webp",
+              "ok": true,
+              "fit": "cover"
+            },
+            {
+              "src": "img/pendiente-mesa-restaurante.svg",
+              "ok": true,
+              "fit": "cover"
+            },
+            {
+              "src": "img/pendiente-ambiente-restaurante.svg",
+              "ok": true,
+              "fit": "cover"
+            }
+          ],
+          "reveals": true
+        }
+      ],
+      "reducedMotion": true,
+      "uniqueImages": 8,
+      "previousFiles": 5,
+      "comparisons": 40,
+      "fileOrDecodedMatches": 0,
+      "minimumMeanPixelDifference": 37.47,
+      "method": "SHA-256 del archivo y de los píxeles RGBA redimensionados a 32x32 en Chrome. Se compara también la diferencia media de píxeles. Esto detecta igualdad de archivos y coincidencias visuales decodificadas; no constituye una búsqueda global de imágenes ni garantiza exclusividad de fotos públicas.",
+      "hashes": [
+        {
+          "path": "restaurante-puerta-del-parque/img/croquetas-cocido.webp",
+          "sha256": "65eead25b29193ee170ea02adef8bb7dd7f28250c0bcbc13f283aab5ad2c99df",
+          "decoded32": "287aee8dab68d192a2b5468797e462447868f7f9cbc3e75aeb594ddb5e7982f8"
+        },
+        {
+          "path": "restaurante-puerta-del-parque/img/el-bosque-arquitectura-blanca.webp",
+          "sha256": "e07879075cc6653a3440521922138823121618e72ef7b787331e1446e2f54b7a",
+          "decoded32": "c7145ee719a5d8d601b7fe3697b5f8dbc2ae2945fd4a295cdec9e317e89caeeb"
+        },
+        {
+          "path": "restaurante-puerta-del-parque/img/garbanzos-espinacas-cadiz.webp",
+          "sha256": "02048317d7b1682db1e959a82fae97c8a62c3bc91839fe600f580f3eecc46750",
+          "decoded32": "dba07b0d1d7fe633b8a9d7bf9c099067b342dc4195ff0c811e0efad6fb0f3cff"
+        },
+        {
+          "path": "restaurante-puerta-del-parque/img/gazpacho-andaluz.webp",
+          "sha256": "984f6d81df59e66b0d90a2153d4dde0f782bd6ade45b29612369320dfea12536",
+          "decoded32": "6483c0803c85df7b3ff1e11fed4fc5ed95d37fbce0c5fe9c6148e3570c261b68"
+        },
+        {
+          "path": "restaurante-puerta-del-parque/img/pendiente-ambiente-restaurante.svg",
+          "sha256": "104f41568442452eed5d0a651b6af2d3893704714655c58ea61a353df45de022",
+          "decoded32": "2c7f5d9329a44d84b5bf86fcfc53a136f28b87bfc943ea20f008066304c2e4a8"
+        },
+        {
+          "path": "restaurante-puerta-del-parque/img/pendiente-mesa-restaurante.svg",
+          "sha256": "37eb8ae79836e13b41e0f162ef8870a34f769506df16f6680a7283aca3b67276",
+          "decoded32": "4e6409a945709a9e5e75bd2f6217cab5899a72ec9023a313b516be1b175060d6"
+        },
+        {
+          "path": "restaurante-puerta-del-parque/img/queso-cabra-grazalema.webp",
+          "sha256": "f5e2cd1c00e36ca267f9ddaf645a58fc9b314b12cca71ca4440684a11e8ba444",
+          "decoded32": "dc8a5f93b1e81c9f61752cc5868655deb905ff60c324e44fa063db666f30227c"
+        },
+        {
+          "path": "restaurante-puerta-del-parque/img/sierra-grazalema-terrazgos.webp",
+          "sha256": "c594bd54178f8670073e808478466e6336a814c8a9420af4ed4be34ac8fde5ec",
+          "decoded32": "2bc1d397a42e4a1d96c15291ba4567868792f37e5c4d88545af94a7922b9c760"
+        },
+        {
+          "path": ".image-audit/previous/cafe.jpg",
+          "sha256": "b2432e226e1c24683450376a2800523ca71f5a04dd596d31b2c038fca2885762",
+          "decoded32": "2cf67cdcea58aeaff42ac377670882061d072bc06bfbedeef6ecbdbd3b8cf620"
+        },
+        {
+          "path": ".image-audit/previous/cerveza.jpg",
+          "sha256": "bba54fe66ec653f04e7a42c4927875deefbea03a43b169c82bf11dd479989e96",
+          "decoded32": "05b016294c66df361c25f8b304727a5b5bc31c65e8ca98546c906f58eb1d56d7"
+        },
+        {
+          "path": ".image-audit/previous/compartir.jpg",
+          "sha256": "f916ae1c4f92a0ac6ec8eef073b354115b4ba3ddb7b4d553e9a68511a29a571e",
+          "decoded32": "99a8a9ad36a354a70abab2e626fae7c12b934788f9b4fdb320f69af33ce93eb7"
+        },
+        {
+          "path": ".image-audit/previous/hero.jpg",
+          "sha256": "c0e7e05984f32aefae59e911cd435b1b3a1a510d156be6d1bb347cef9cc5d4d2",
+          "decoded32": "e56dab9f13b6f0a71e3e9f3748f5609f2d9aa5a24fef2b60107ea1207759ee11"
+        },
+        {
+          "path": ".image-audit/previous/interior.jpg",
+          "sha256": "2b0b1cbd7513a5db41f31ba88b7bfa746940071888bb6b5af74a340ead39e04e",
+          "decoded32": "7cafd6cee53bd3973993d76f342e7dfd85d33d5c4c98f69d2e8ced8c9e2fcc5e"
+        }
+      ]
+    }
+  }
+}
